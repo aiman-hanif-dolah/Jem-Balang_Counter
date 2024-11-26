@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "bip-projects"
+  },
+  "targets": {
+    "bip-projects": {
+      "hosting": {
+        "jem-balang-sales-tracker": [
+          "jem-balang-sales-tracker"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}

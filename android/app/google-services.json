@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "638778848216",
+    "project_id": "bip-projects",
+    "storage_bucket": "bip-projects.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638778848216:android:e7c9d57a3f1a040a9d38ad",
+        "android_client_info": {
+          "package_name": "com.fsktm.jembalang_counter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638778848216-aolbj6shrqi4ma9ikhqla9k7njl9ek00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpdpVYDvt0nXKoRIRZN6oQW8s-KHPBfmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638778848216-aolbj6shrqi4ma9ikhqla9k7njl9ek00.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638778848216-0vamjopuhhqifici6l9jeb5470kdbuii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tasktimetracker.taskTimeTracker.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638778848216:android:70e4b78c090b4b5d9d38ad",
+        "android_client_info": {
+          "package_name": "com.tasktimetracker.task_time_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638778848216-aolbj6shrqi4ma9ikhqla9k7njl9ek00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpdpVYDvt0nXKoRIRZN6oQW8s-KHPBfmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638778848216-aolbj6shrqi4ma9ikhqla9k7njl9ek00.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638778848216-0vamjopuhhqifici6l9jeb5470kdbuii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tasktimetracker.taskTimeTracker.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

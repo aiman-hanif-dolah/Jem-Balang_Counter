@@ -1,0 +1,72 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "bip-projects",
+          "appId": "1:638778848216:android:e7c9d57a3f1a040a9d38ad",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "bip-projects",
+          "configurations": {
+            "android": "1:638778848216:android:e7c9d57a3f1a040a9d38ad",
+            "ios": "1:638778848216:ios:d1d88911e2b1da279d38ad",
+            "macos": "1:638778848216:ios:d1d88911e2b1da279d38ad",
+            "web": "1:638778848216:web:683abc3c81fab6459d38ad",
+            "windows": "1:638778848216:web:136a82c14186b36e9d38ad"
+          }
+        }
+      }
+    }
+  },
+  "hosting": [
+    {
+      "target": "jembalang",
+      "public": "jembalang",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    },
+    {
+      "target": "jem-balang-sales-tracker",
+      "public": "build/web",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    },
+    {
+      "target": "task-time-tracker-uthm",
+      "public": "build/web",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}
